@@ -1,0 +1,16 @@
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF.csproj.AssemblyReference.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\App.g.cs
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF_MarkupCompile.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF_MarkupCompile.lref
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\bin\Debug\Tetris_WPF.exe.config
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\bin\Debug\Tetris_WPF.exe
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\bin\Debug\Tetris_WPF.pdb
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\MainWindow.baml
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF.g.resources
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF.Properties.Resources.resources
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF.csproj.GenerateResource.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF.csproj.CoreCompileInputs.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF.exe
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\Tetris_WPF\Tetris_WPF\obj\Debug\Tetris_WPF.pdb
